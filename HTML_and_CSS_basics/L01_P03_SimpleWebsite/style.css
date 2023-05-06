@@ -1,0 +1,52 @@
+footer{
+    background: #444;
+    color: #fff;
+    text-align: center;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background: #ccc;
+}
+
+section {
+    margin-left: 20px;
+}
+
+h1 {
+    font-size: 28px;
+}
+
+header > p {
+    font-style: italic;
+}
+
+article > p {
+    font-size: 24px;
+}
+
+body {
+    margin: 0;
+    font-family: sans-serif;
+}
+
+nav {
+    background: #444;
+    margin: 0;
+    padding: 15px;
+}
+
+nav li {
+    padding: 0 20px;
+    display: inline-block;
+}
+
+nav li a {
+    color: white;
+    text-decoration: none;
+}
+
+iframe {
+    margin: 25px;
+}
