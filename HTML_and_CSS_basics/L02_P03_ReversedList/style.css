@@ -1,0 +1,13 @@
+body{
+    background: #e6e5e5;
+}
+
+h3 {
+    text-align: center;
+    font-family: sans-serif;
+    color: #234465;
+}
+
+li {
+    border-bottom: 1px solid;
+}
